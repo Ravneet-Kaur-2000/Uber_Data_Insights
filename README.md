@@ -9,15 +9,9 @@
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#technology-used">Technology Used</a></li>
-      </ul>
-       <ul>
-        <li><a href="#dataset-used">Dataset Used</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+      <li><a href="#technology-used">Technology Used</a></li>
+      <li><a href="#dataset-used">Dataset Used</a></li>
 </details>
 
 
