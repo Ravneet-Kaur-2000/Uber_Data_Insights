@@ -20,7 +20,8 @@
 ## About The Project
 
 Devised and implemented an end-to-end Extract, Transform & Load (ETL) pipeline using MageAI on a Google Cloud Virtual Machine, leveraging Cloud Storage to process and manage a vast dataset of over 100,000 Uber trips. 
-Extracted transformed data into Google BigQuery and employed SQL queries to perform Exploratory Data Analysis(EDA) and created visually informative dashboards to provide valuable insights.",
+Extracted transformed data into Google BigQuery and employed SQL queries to perform Exploratory Data Analysis(EDA) and created visually informative dashboards to provide valuable insights.<br>
+Looker Studio Link : https://lookerstudio.google.com/u/0/reporting/e49bb38f-b061-4138-b036-97eb2676688d/page/ppxaD
 
 ### Technology Used
 
@@ -30,8 +31,12 @@ Extracted transformed data into Google BigQuery and employed SQL queries to perf
 * Looker Studio
 * MageAI
 
+
 ### Dataset Used
 
-TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.<br>
 Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+
+  <img src="data_model.jpeg" alt="Logo">
 
